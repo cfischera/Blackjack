@@ -1,0 +1,50 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#status {
+	height: 2em;
+	text-align: center;
+	verical-align: middle;
+	line-height: 2em;
+	background-color: #006600;
+	color: #ffffff;
+}
+
+#pay {
+	height: 2em;
+	text-align: center;
+	verical-align: middle;
+	line-height: 2em;
+	background-color: #006600;
+	color: #ffffff;
+}
+
+#table {
+	background-color: #006600;
+}
+
+.card {
+  box-shadow: 0 0.0625em 0.125em 0 rgba(0,0,0,0.15);
+  width: 5em;
+  height: 7em;
+  border-radius: 0.25em;
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid black;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 7em;
+  font-size: x-large;
+}
+
+.card:hover {
+  outline: none;
+  box-shadow: 0 0 10px blue;
+}
+
+.hand {
+	margin: 2em;
+}
